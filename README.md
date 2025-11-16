@@ -356,7 +356,7 @@ IntelliJ Documentation: [Extract Method](https://www.jetbrains.com/help/idea/ext
 ### Task 2.2: Extracting Volume Credits
 
 _**Did you update your `log.txt` and commit your changes when you completed the previous task?
-Do it now before you go any further!**_
+Do it now before you go any further!**
 
 Now that we have dealt with getting the base amount for each performance,
 we can turn our attention to refactoring the part of the code responsible for calculating the volume credits.
